@@ -1,3 +1,1 @@
-Questo file è stato creato sul branch main.
-
-Ecco il mio primo conflitto!
+Questo è il contenuto post-merge. Conflitto risolto!
